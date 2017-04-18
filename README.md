@@ -1,1 +1,1 @@
-A readme
+This is a project for working through The Odin Project
